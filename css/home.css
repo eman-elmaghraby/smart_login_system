@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+    height: 75vh;
+
+}
+.navbar{
+    box-shadow: -5px 2px 69px -9px rgba(0, 0, 0, 1);
+}
+.navbar a:hover{
+    color: white !important;
+}
+.group{
+    box-shadow: -5px 2px 69px -9px rgba(0, 0, 0, 1);
+
+}
+h1{
+    color: #17a2b8;
+}
